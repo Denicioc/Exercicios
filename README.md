@@ -2,4 +2,6 @@
 
 Developed with Unreal Engine 4
 
-Exercício Módulo 34
+Entrega: Exercício Módulo 34
+
+- Criação de AnimBP para novo SkeletalMesh;
